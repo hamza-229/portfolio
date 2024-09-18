@@ -8,3 +8,7 @@
 ### Unsupervised learning
 
 * Mall customers segmentation ( Clustering )
+
+### Web based dashboards
+
+* Building web based dashboard with Plotly and Dash
