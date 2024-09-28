@@ -10,7 +10,7 @@
 * Mall customers segmentation ( Clustering )
 
 ### Deep learning
-* Brain tumor identification ( Image Classification )
+* Brain tumor identification ( Computer Vision )
 
 ### Web based dashboards
 
