@@ -10,7 +10,8 @@
 * Mall customers segmentation ( Clustering )
 
 ### Deep learning
-* Brain tumor identification ( Computer Vision )
+* Brain tumor identification using CNN ( Computer Vision )
+* US Airlines Tweets analysis using GRU ( NLP )
 
 ### Web based dashboards
 
