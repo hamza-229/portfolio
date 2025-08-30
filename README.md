@@ -10,6 +10,6 @@
 * Mall customers segmentation ( Clustering )
 
 ### Deep learning
-* Implementing Neural Network from scratch
+* Implementation of Neural Network from scratch
 * Brain tumor identification using CNN ( Computer Vision )
 * US Airlines Tweets analysis using GRU and fine tuned XLNet ( NLP )
