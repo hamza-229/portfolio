@@ -9,6 +9,7 @@
 * Mall customers segmentation
 
 ### Deep learning
-* Brain tumor identification using CNN
+* Brain tumor identification on MRI images with CNN
+* Concrete Images classification with CNN using PyTorch
 * Car object detection using YOLO
 * US Airlines Tweets analysis using GRU and fine tuned XLNet
