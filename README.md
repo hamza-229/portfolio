@@ -13,3 +13,4 @@
 * Concrete Images classification with CNN using PyTorch
 * Car object detection using YOLO
 * US Airlines Tweets analysis with GRU and fine tuned XLNet
+* Books recommendation system with Neural Netwroks using PyTorch
