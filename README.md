@@ -1,4 +1,6 @@
 # Projects
+### Data Analysis
+* Housing data analysis and hypothesis testing using Excel
 ### Machine learning
 ###### Supervised learning
 
