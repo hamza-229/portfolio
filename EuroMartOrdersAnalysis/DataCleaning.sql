@@ -1,4 +1,4 @@
--- 1. Establish the rela onship between the tables as per the ER diagram. 
+-- 1. Establish the relationship between the tables as per the ER diagram. 
 
 alter table OrderList add constraint pk_orderid primary key (OrderID)
 
@@ -6,7 +6,7 @@ alter table EachOrderBreakdown add constraint fk_orderid foreign key (OrderID) r
 
 select * from OrderList
 select * from EachOrderBreakdown
--- 2. Split City State Country into 3 individual columns namely ‘City’, ‘State’, ‘Country’. 
+-- 2. Split City State Country into 3 individual columns namely â€˜Cityâ€™, â€˜Stateâ€™, â€˜Countryâ€™. 
 
 alter table OrderList add City nvarchar(50), State nvarchar(50), Country nvarchar(50)
 
@@ -20,7 +20,7 @@ alter table OrderList drop column City_State_country
 3. Add a new Category Column using the following mapping as per the first 3 characters in the 
 Product Name Column:  
 a. TEC- Technology 
-b. OFS – Office Supplies 
+b. OFS â€“ Office Supplies 
 c. FUR - Furniture 
 */
 alter table EachOrderBreakdown add Category nvarchar(50)
