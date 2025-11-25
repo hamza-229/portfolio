@@ -1,6 +1,7 @@
 # Projects
 ### Data Analysis
 * Housing data analysis and hypothesis testing using Excel
+* EuroMart Orders data cleaning and analysis using SQL Server
 ### Machine learning
 ###### Supervised learning
 
